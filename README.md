@@ -48,7 +48,7 @@ Tenho bastante interesse em:
 
 ### 🌱 Lixie
 <p>Plataforma web de reciclagem gamificada, desenvolvida em equipe.
-**🥇 Vencedor de Melhor Projeto** — projeto acadêmico com foco em sustentabilidade e engajamento do usuário.</p>
+🥇 Vencedor de Melhor Projeto — projeto acadêmico com foco em sustentabilidade e engajamento do usuário.</p>
 
 `Python` `MySQL` `HTML/CSS/JS`
 
