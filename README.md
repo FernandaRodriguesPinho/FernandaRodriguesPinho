@@ -11,10 +11,10 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/fernandapinho" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-F7B6D2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:seuemail@exemplo.com">
+<a href="mailto:nandarpinho@gmail.com">
 <img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -40,23 +40,21 @@ Tenho bastante interesse em:
 
 <br>
 
-## 🌱 Destaques
+## 🌱 Destaque
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Lixie
-Plataforma web de reciclagem gamificada, desenvolvida em equipe.
-**🥇 Vencedor de Melhor Projeto** — projeto acadêmico com foco em sustentabilidade e engajamento do usuário.
+### 🌱 Lixie
+<p>Plataforma web de reciclagem gamificada, desenvolvida em equipe.
+**🥇 Vencedor de Melhor Projeto** — projeto acadêmico com foco em sustentabilidade e engajamento do usuário.</p>
 
-</td>
-<td width="50%" valign="top">
+`Python` `MySQL` `HTML/CSS/JS`
 
-### 📊 Análise de Dados
-Trabalhos práticos utilizando **Excel** e **Power BI**, com foco em organização, tratamento, análise e visualização de dados.
+[![Repo](https://img.shields.io/badge/-Ver_repositório-FF8FC7?style=flat-square&logo=github&logoColor=2b0a2e)](https://github.com/IsabelaLouise/LIXIE)
 
-</td>
+
 </tr>
 </table>
 
@@ -66,14 +64,15 @@ Trabalhos práticos utilizando **Excel** e **Power BI**, com foco em organizaç�
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,firebase,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,kotlin,linux,react,nodejs,git,github,vscode&theme=dark" />
 
 <br><br>
-
-<img src="https://img.shields.io/badge/Power%20BI-F7B6D2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-F7B6D2?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-FFC0CB?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FADADD?style=for-the-badge&logo=python&logoColor=white"/>
+![Python](https://img.shields.io/badge/-Python-2b0a2e?style=for-the-badge&logo=python&logoColor=FF8FC7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2b0a2e?style=for-the-badge&logo=javascript&logoColor=C2185B)
+![MySQL](https://img.shields.io/badge/-MySQL-2b0a2e?style=for-the-badge&logo=mysql&logoColor=C2185B)
+![React](https://img.shields.io/badge/-React-2b0a2e?style=for-the-badge&logo=react&logoColor=C2185B)
+![Node.js](https://img.shields.io/badge/-Node.js-2b0a2e?style=for-the-badge&logo=node.js&logoColor=C2185B)
+![Git](https://img.shields.io/badge/-Git-2b0a2e?style=for-the-badge&logo=git&logoColor=C2185B)
 
 </div>
 
@@ -81,28 +80,12 @@ Trabalhos práticos utilizando **Excel** e **Power BI**, com foco em organizaç�
 
 ## 📈 Estatísticas do GitHub
 
-> ⚠️ Substitua **SEU-USUARIO** pelo seu nome de usuário do GitHub nos links abaixo para os cards funcionarem corretamente.
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=false&border_color=F7B6D2&border_radius=12&bg_color=161B22&title_color=F7B6D2&icon_color=F7B6D2&text_color=ffffff&ring_color=F7B6D2"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=donut-vertical&theme=radical&hide_border=false&border_color=F7B6D2&border_radius=12&bg_color=161B22&title_color=F7B6D2&text_color=ffffff"/>
-
-</div>
 
 <br>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical&hide_border=false&border=F7B6D2&border_radius=12&background=161B22&ring=F7B6D2&fire=F7B6D2&currStreakLabel=F7B6D2"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=radical&no-frame=true&no-bg=false&column=7&margin-w=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandaRodriguesPinho&theme=radical&hide_border=false&border=F7B6D2&border_radius=12&background=161B22&ring=F7B6D2&fire=F7B6D2&currStreakLabel=F7B6D2"/>
 
 </div>
 
