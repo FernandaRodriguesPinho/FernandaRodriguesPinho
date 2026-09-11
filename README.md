@@ -6,17 +6,17 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/PUC--PR-Sistemas%20de%20Informação-F7B6D2?style=for-the-badge&logo=googlescholar&logoColor=white"/>
-<img src="https://img.shields.io/badge/Status-Em%20busca%20da%201ª%20oportunidade-FFC0CB?style=for-the-badge&logo=target&logoColor=white"/>
-
-<br><br>
-
+<img src="https://img.shields.io/badge/PUC--PR-Sistemas%20de%20Informação-C2185B?style=for-the-badge&logo=googlescholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Em%20busca%20da%201ª%20oportunidade-C2185B?style=for-the-badge&logo=target&logoColor=white"/>
 <a href="https://www.linkedin.com/in/fernandapinho" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-F7B6D2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-F7B6D2?style=for-the-badge&logo=linkedin&logoColor=C2185B"/>
 </a>
 <a href="mailto:nandarpinho@gmail.com">
-<img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-FFC0CB?style=for-the-badge&logo=gmail&logoColor=C2185"/>
 </a>
+
+<br>
+
 
 </div>
 
