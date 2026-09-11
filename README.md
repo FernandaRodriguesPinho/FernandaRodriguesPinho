@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.png" width="80%"/>
+<img src="video.gif" width="80%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=D6336C&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Fernanda!+%E2%9C%A8;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Apaixonada+por+Dados+%26+Tecnologia+%F0%9F%92%96" alt="Typing SVG" />
 
